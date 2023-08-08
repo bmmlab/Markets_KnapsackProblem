@@ -12,4 +12,12 @@ EXPERIMENT 1:
 - Experimental Design, with:
 -- KP instances, including solutions
 -- Initial allocations assigned to Flex-E-Markets users 
-Thesis of Shireen Tang (Honours Student on Project)
+- Thesis of Shireen Tang (Honours Student on Project)
+
+EXPERIMENT 2:
+- 5 sessions
+- Experimental Design: 
+-- KP problem instances specification "KP Specs", including identification of item IDs used in KP Interface Activity files (see next)
+- KP Interface Activity, detailed per session and summary ("panel" csv files)
+- Markets Data, per session and per instance (includes initial and final allocations), and summary ("panel" csv file)
+- Thesis of Anirudh Suthakar
